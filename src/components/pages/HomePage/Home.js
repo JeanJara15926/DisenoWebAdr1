@@ -10,9 +10,8 @@ import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
 import InfoSection from '../../InfoSection/InfoSection';
 
 function Home(){
-    return(
-        
-        <>
+    return(        
+        <render>
             <HeroSection/>
             <Cards/>
             <Pricing/>
@@ -22,8 +21,7 @@ function Home(){
             <Pricing />
             <InfoSection {...homeObjFour} />
             <Footer/>
-        </>
-            
+        </render>           
         
     )
 }

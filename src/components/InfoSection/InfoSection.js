@@ -29,7 +29,7 @@ function InfoSection({
   start
 }) {
   return (
-    <>
+    <render>
       <InfoSec lightBg={lightBg}>
         <Container>
           <InfoRow imgStart={imgStart}>
@@ -53,7 +53,7 @@ function InfoSection({
           </InfoRow>
         </Container>
       </InfoSec>
-    </>
+    </render>
   );
 }
 

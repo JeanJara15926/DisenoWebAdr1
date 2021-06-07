@@ -10,7 +10,7 @@ import SignUp from './components/pages/SignUp';
 
 function App() {
   return (
-    <>
+    
       <Router>
         <Navbar />
         <Switch>
@@ -20,8 +20,7 @@ function App() {
           <Route path='/sign-up' component={SignUp} />
         </Switch>
       </Router>
-    </>
-
+    
   );
 }
 
