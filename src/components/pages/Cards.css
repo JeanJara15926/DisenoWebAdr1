@@ -12,7 +12,7 @@
     flex-flow: column;
     align-items: center;
     max-width: 1120px;
-    width: 90%;
+    width: 90%;       
     margin: 0 auto;
   }
   
@@ -46,8 +46,8 @@
   
   .cards__item__pic-wrap {
     position: relative;
-    width: 100%;
-    padding-top: 67%;
+    width: 100%;    
+    padding-top: 150%;
     overflow: hidden;
   }
   
@@ -95,8 +95,8 @@
   
   .cards__item__text {
     color: #252e48;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 40px;
+    line-height: 56px;
   }
   
   @media only screen and (min-width: 1200px) {

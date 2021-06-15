@@ -3,12 +3,12 @@ import '../App.css'
 import {Button} from './Navbar/Button'
 import './HeroSection.css'
 
-function HeroSection() {
+function HeroSection2() {
     return (
         <div className='hero-container'>            
-            <video src="/videos/VidIntro.mp4" autoPlay loop muted />
-            <h1> D&A Future</h1>      
-            <p>Diseño y arquitectura del futuro</p>
+            <video src="/videos/video-2.mp4" autoPlay loop muted />
+            <h1> Cursos </h1>      
+            <p></p>
             <div className="hero-btns">
                 {/*<Button 
                 className='btns' 
@@ -27,4 +27,4 @@ function HeroSection() {
     )
 }
 
-export default HeroSection
+export default HeroSection2

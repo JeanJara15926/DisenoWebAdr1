@@ -13,7 +13,7 @@ import {
   Img
 } from './InfoSection.elements';
 
-function InfoSection({
+function InfoSectionCurso2({
   primary,
   lightBg,
   topLine,
@@ -38,11 +38,11 @@ function InfoSection({
                 <TopLine lightTopLine={lightTopLine}>{topLine}</TopLine>
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
-                <a href='https://www.youtube.com/watch?v=DvIypueE3YE' target="_blank">
+                <Link to='/curso2'>
                   <Button big fontBig primary={primary}>
                     {buttonLabel}
                   </Button>
-                </a>
+                </Link>
               </TextWrapper>
             </InfoColumn>
             <InfoColumn>
@@ -56,4 +56,5 @@ function InfoSection({
     </render>
   );
 }
-export default InfoSection;
+
+export default InfoSectionCurso2;

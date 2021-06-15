@@ -8,18 +8,15 @@ import Pricing from '../../Pricing/Pricing';
 
 import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
 import InfoSection from '../../InfoSection/InfoSection';
-
+import InfoSection2 from '../../InfoSection/InfoSection2';
 function Home(){
     return(        
         <render>
             <HeroSection/>
-            <Cards/>
-            <Pricing/>
+            <Cards/>            
             <InfoSection {...homeObjOne} />
-            <InfoSection {...homeObjThree} />
-            <InfoSection {...homeObjTwo} />
-            <Pricing />
-            <InfoSection {...homeObjFour} />
+            <InfoSection2 {...homeObjThree} />            
+            <Pricing />            
             <Footer/>
         </render>           
         

@@ -5,29 +5,28 @@ import './Cards.css';
 function Cards() {
     return (
         <div className='cards'>
-            <h1>Check out these EPIC Destinations</h1>
+            <h1>Profesores calificados Internacionales</h1>
             <div className='cards__container'>                
                 <div className='cards__wrapper'>                    
                     <ul className='cards__items'>
                         <CardItem
-                        src="images/img-9.jpg"
-                        text="Explore the hidden waterfall deep inside the Amazon Jungle"
-                        label='Adventure'
+                        src="images/Pro1.jpeg"
+                        text="Samantha Salazar"
+                        label='Aruiqtecta'
                         path='/services'
                         /> 
                         <CardItem
-                        src="images/img-9.jpg"
-                        text="Explore the hidden waterfall deep inside the Amazon Jungle"
-                        label='Adventure'
+                        src="images/Pro2.jpg"
+                        text="Adrián Schwwartz"
+                        label='fotografo'
                         path='/services'
                         />
                         <CardItem
-                        src="images/img-8.jpg"
-                        text="Explore the hidden waterfall deep inside the Amazon Jungle"
-                        label='Adventure'
+                        src="images/Pro3.jpg"
+                        text="Emiliano Santiago"
+                        label='Aruiqtecto'
                         path='/services'
-                        />
-                                                                                                                  
+                        />                                                                                                                  
                     </ul>               
                 </div>                              
             </div>

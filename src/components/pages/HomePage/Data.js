@@ -4,13 +4,13 @@ export const homeObjOne = {
     lightTopLine: true,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Marketing Agency',
-    headline: 'Lead Generation Specialist for Online Businesses',
+    topLine: '',
+    headline: 'Diseño de interiores con mira al futuro',
     description:
-      'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
-    buttonLabel: 'Get Started',
+    "Charlas para conocer las nuevas tendencias del diseño de interiores en comercio y viviendas.",
+    buttonLabel: 'Ver conferencia',
     imgStart: '',
-    img: require('../../../images2/svg-1.svg'),
+    img: require('../../../images2/conf1.png'),
     alt: 'Credit Card',
     start: ''
   };
@@ -38,14 +38,14 @@ export const homeObjOne = {
     lightTopLine: false,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Sarah Jeni',
+    topLine: '',
     headline:
-      'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+      'Seguridad y salud en el trabajo',
     description:
-      "Their team is wonderful! I can't believe I didn't start working with them earlier.",
-    buttonLabel: 'View Case Study',
+      "Conocimiento en equipo de protección y sistemas de seguridad",
+    buttonLabel: 'Ver conferencia',
     imgStart: 'start',
-    img: require('../../../images2/profile.jpg'),
+    img: require('../../../images2/conf2.png'),
     alt: 'Vault',
     start: 'true'
   };
@@ -56,10 +56,10 @@ export const homeObjOne = {
     lightTopLine: true,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Secure Database',
-    headline: 'All your data is stored on our secure server',
+    topLine: '',
+    headline: 'Seguridad y salud en el trabajo',
     description:
-      'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
+      'Conocimiento en equipo de proteccion y sistemas de seguridad',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
     img: require('../../../images2/svg-3.svg'),
