@@ -11,13 +11,13 @@ function Cards() {
                     <ul className='cards__items'>
                         <CardItem
                         src="images/Pro1.jpeg"
-                        text="Samantha Salazar"
+                        text="Sara Salazar"
                         label='Aruiqtecta'
                         path='/services'
                         /> 
                         <CardItem
                         src="images/Pro2.jpg"
-                        text="Adrián Schwwartz"
+                        text="Adrián Schwartz"
                         label='fotografo'
                         path='/services'
                         />

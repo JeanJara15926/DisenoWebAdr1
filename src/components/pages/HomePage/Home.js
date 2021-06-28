@@ -9,6 +9,8 @@ import Pricing from '../../Pricing/Pricing';
 import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
 import InfoSection from '../../InfoSection/InfoSection';
 import InfoSection2 from '../../InfoSection/InfoSection2';
+
+
 function Home(){
     return(        
         <render>

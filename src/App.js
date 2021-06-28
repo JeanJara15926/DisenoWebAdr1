@@ -12,10 +12,10 @@ import Curso3 from './components/pages/Curso3';
 import Curso4 from './components/pages/Curso4';
 
 function App() {
-  return (    
+  return (       
       <Router>
         <Navbar />
-        <Switch>
+        <Switch>          
           <Route path='/' exact component={Home} />
           <Route path='/curso' component={Curso} />  
           <Route path='/curso1' component={Curso1} />   
