@@ -27,50 +27,53 @@ function Pricing() {
         <PricingWrapper>
           <PricingHeading>Our Services</PricingHeading>
           <PricingContainer>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='/sign-up' target="_parent">
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiRock />
                 </PricingCardIcon>
                 <PricingCardPlan>Starter Pack</PricingCardPlan>
-                <PricingCardCost>$99.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardCost>S/26.99</PricingCardCost>
+                <PricingCardLength>Mensual</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>100 New Users</PricingCardFeature>
-                  <PricingCardFeature>$10,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Retargeting analytics</PricingCardFeature>
+                  <PricingCardFeature>Acceso a todos los cursos</PricingCardFeature>
+                  <PricingCardFeature>Acceso a criticas y charlas </PricingCardFeature>
+                  <PricingCardFeature>Cursos exclusivos Premium</PricingCardFeature>
+                  <PricingCardFeature>Acceso a certificados</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='/sign-up' target="_parent">
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiCrystalBars />
                 </PricingCardIcon>
                 <PricingCardPlan>Gold Rush</PricingCardPlan>
-                <PricingCardCost>$299.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardCost>S/156.99</PricingCardCost>
+                <PricingCardLength>6 Meses</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>1000 New Users</PricingCardFeature>
-                  <PricingCardFeature>$50,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Lead Gen Analytics</PricingCardFeature>
+                <PricingCardFeature>Acceso a todos los cursos</PricingCardFeature>
+                  <PricingCardFeature>Acceso a criticas y charlas </PricingCardFeature>
+                  <PricingCardFeature>Cursos exclusivos Premium</PricingCardFeature>
+                  <PricingCardFeature>Acceso a certificados</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
             </PricingCard>
-            <PricingCard to='/sign-up'>
+            <PricingCard to='/sign-up' target="_parent">
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiCutDiamond />
                 </PricingCardIcon>
                 <PricingCardPlan>Diamond Kings</PricingCardPlan>
-                <PricingCardCost>$999.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardCost>S/306.99</PricingCardCost>
+                <PricingCardLength>Anual</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Unlimited Users</PricingCardFeature>
-                  <PricingCardFeature>Unlimited Budget</PricingCardFeature>
-                  <PricingCardFeature>24/7 Support</PricingCardFeature>
+                <PricingCardFeature>Acceso a todos los cursos</PricingCardFeature>
+                  <PricingCardFeature>Acceso a criticas y charlas </PricingCardFeature>
+                  <PricingCardFeature>Cursos exclusivos Premium</PricingCardFeature>
+                  <PricingCardFeature>Acceso a certificados</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>

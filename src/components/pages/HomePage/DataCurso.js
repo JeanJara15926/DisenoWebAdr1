@@ -25,7 +25,7 @@ export const homeObjOne = {
     description: "En este curso se les enseñara la importancia del color en diversos aspectos del dia a dia, los colores se conectan con las emociones en el cerebro y también se ha podido comprobar que los colores de nuestras habitaciones pueden influir en nuestro estado de ánimo.",
     buttonLabel: 'Ver más',
     imgStart: 'start',
-    img: require('../../../images2/Curso1-2.jpg'),
+    img: require('../../../images2/C.PNG'),
     alt: 'Vault',
     start: 'true'
   };
@@ -37,7 +37,7 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: '',
-    headline: 'Diseño y modelado arquitectónico 3D con Revit Un curso de Emir Vértiz, Arquitecto',
+    headline: 'Diseño y modelado arquitectónico 3D con Revit',
     description: "En este curso aprenderás a diseñar y modelar una vivienda ortogonal aplicando la metodología BIM con Revit. Verás paso a paso cómo crear un proyecto de arquitectura 3D, desde los muros hasta las láminas de presentación para tu cliente.",
     buttonLabel: 'Ver más',
     imgStart: '',
@@ -53,11 +53,11 @@ export const homeObjOne = {
     lightText: false,
     lightTextDesc: false,
     topLine: '',
-    headline: 'Diseño y modelado arquitectónico 3D con Revit Un curso de Emir Vértiz, Arquitecto',
-    description:'En este curso aprenderás a diseñar y modelar una vivienda ortogonal aplicando la metodología BIM con Revit. Verás paso a paso cómo crear un proyecto de arquitectura 3D, desde los muros hasta las láminas de presentación para tu cliente.',
+    headline: 'FOTOGRAFIA Y VIDEO PROFESIONAL CON TU MOVIL',
+    description:'En este curso aprenderás a sacarle todo el partido a tu teléfono móvil para crear contenido visual en fotografías y vídeos para tus redes sociales.',
     buttonLabel: 'Ver más',
     imgStart: 'start',
-    img: require('../../../images2/svg-3.svg'),
+    img: require('../../../images2/f.jpg'),
     alt: 'Vault',
     start: 'true'
   };
@@ -73,7 +73,7 @@ export const homeObjOne = {
     description:'En este curso aprenderás a utilizar instrumentos geométricos y desarrollarás las habilidades necesarias para diseñar planos, croquis, diagramas y cualquier tipo de representación de objetos gráficos de manera precisa. Al finalizar el curso de dibujo técnico tendrás la capacidad de prestar tus servicios como dibujante en industrias cómo la ingeniería, el diseño industrial y la arquitectura.',
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/Curso1-2.jpg'),
+    img: require('../../../images2/Curso1-1.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -106,7 +106,7 @@ export const homeObjOne = {
     description :"",
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/Curso1-2.jpg'),
+    img: require('../../../images2/Curso1-3.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -122,7 +122,7 @@ export const homeObjOne = {
     description :"Arquitecta y diseñadora de Interiores, trabajó para   los estudios de diseño más destacados de Colombia y participó en Casacor Colombia en el 2017 y 2020. Tiene más de 10 años ayudando a jóvenes en el área de dibujo arquitectónico.",
     buttonLabel: '',
     imgStart: 'start',
-    img: require('../../../images2/profile.jpg'),
+    img: require('../../../images2/Pro7.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -139,7 +139,7 @@ export const homeObjOne = {
       +"La concentración e incluso hasta en nuestra digestión. Por todo ello entendemos muy importante qué color debemos elegir para nuestras estancias y aquí queremos explicaros algunas pistas para ello.",
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/C.PNG'),
+    img: require('../../../images2/Curso2-1.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -154,7 +154,7 @@ export const homeObjOne = {
     description :"",
     buttonLabel: '',
     imgStart: 'start',
-    img: require('../../../images2/C.PNG'),
+    img: require('../../../images2/Curso2-2.jpeg'),
     alt: 'Vault',
     start: ''
   };
@@ -169,7 +169,7 @@ export const homeObjOne = {
     description :"",
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/C.PNG'),
+    img: require('../../../images2/Curso2-3.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -196,7 +196,7 @@ export const homeObjOne = {
     lightText: false,
     lightTextDesc: false,
     topLine: '',
-    headline: 'Diseño y modelado arquitectónico 3D con Revit Un curso de Emir Vértiz, Arquitecto',
+    headline: 'Diseño y modelado arquitectónico 3D con Revit',
     description :"En este curso aprenderás a diseñar y modelar una vivienda ortogonal aplicando la metodología BIM con Revit. Verás paso a paso cómo crear un proyecto de arquitectura 3D, desde los muros hasta las láminas de presentación para tu cliente.",
     buttonLabel: '',
     imgStart: '',

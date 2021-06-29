@@ -14,18 +14,20 @@ function Footers() {
                 <p className='footer-subscription-text'>
                     you can unsubscribe at any time.
                 </p>
-                <div className="input-areas">
+                <div className="input-areas" >
                     <form>
                         <input type='email' name='email' placeholder='Your Email' className='footer-input'/>
                     </form>
-                    <Button buttonStyle='btn--outline'>Subscribe</Button>
+                    <Link to='/sign-up' target="_parent">
+                        <Button buttonStyle='btn--outline'>Subscribe</Button>
+                    </Link>
                 </div>
             </section>
             <div className="footer-links">
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                         <h3>About Us</h3>
-                        <Link to='/sign-up'>How it works</Link>
+                        <Link to='/sign-up' target="_parent">How it works</Link>
                         <Link to='/'>Testimonials</Link>
                         <Link to='/'>Careers</Link>
                         <Link to='/'>Investors</Link>
@@ -33,7 +35,7 @@ function Footers() {
                     </div>
                     <div className="footer-link-items">
                         <h3>Contact Us</h3>
-                        <Link to='/sign-up'>Contact</Link>
+                        <Link to='/sign-up' target="_parent">Contact</Link>
                         <Link to='/'>Support</Link>
                         <Link to='/'>Destinations</Link>
                         <Link to='/'>Sponsorships</Link>                        

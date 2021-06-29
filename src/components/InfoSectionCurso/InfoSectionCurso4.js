@@ -38,7 +38,7 @@ function InfoSectionCurso4({
                 <TopLine lightTopLine={lightTopLine}>{topLine}</TopLine>
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
-                <Link to='/curso4'>
+                <Link to='/curso4' target="_parent">
                   <Button big fontBig primary={primary}>
                     {buttonLabel}
                   </Button>

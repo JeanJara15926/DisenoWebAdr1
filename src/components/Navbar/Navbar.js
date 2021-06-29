@@ -30,7 +30,7 @@ function Navbar() {
     
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/' target="_parent" className='navbar-logo' onClick={closeMobileMenu}>
             FUTURE
             {/*<img src={logo}></img>*/}      
             <i class='fab fa-typo3' />
@@ -40,13 +40,14 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/' target="_parent" className='nav-links' onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>
             <li className='nav-item'>
               <Link
                 to='/curso'
+                target="_parent"
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -56,6 +57,7 @@ function Navbar() {
             <li className='nav-item'>
               <Link
                 to='/products'
+                target="_parent"
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -66,6 +68,7 @@ function Navbar() {
             <li>
               <Link
                 to='/sign-up'
+                target="_parent"
                 className='nav-links-mobile'
                 onClick={closeMobileMenu}
               >
@@ -73,7 +76,7 @@ function Navbar() {
               </Link>
             </li>
           </ul>
-          <Link to='/sign-up' >
+          <Link to='/sign-up' target="_parent">
             {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>}
           </Link>          
         </div>
