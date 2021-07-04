@@ -5,13 +5,14 @@ import Footer from '../Footer';
 import '../HeroSection.css';
 import './Form/Form.css';
 
+
 const SignUp = ({ submitForm }) => {
     const { handleChange, handleSubmit, values, errors } = useForm(
       submitForm,
       validate
     );
     return (
-        <render>
+        <render>          
           <div className='hero-container'>            
             <video src="/videos/video-1.mp4" autoPlay loop muted />                    
           </div>                 

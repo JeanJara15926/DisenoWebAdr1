@@ -12,7 +12,7 @@ function Cards() {
                         <CardItem
                         src="images/Pro1.jpeg"
                         text="Sara Salazar"
-                        label='Aruiqtecta'
+                        label='Arquitecta'
                         path='/services'
                         /> 
                         <CardItem
@@ -24,13 +24,13 @@ function Cards() {
                         <CardItem
                         src="images/Pro3.jpg"
                         text="Emiliano Santiago"
-                        label='Aruiqtecto'
+                        label='Arquitecto'
                         path='/services'
                         />
                         <CardItem
                         src="images/Pro4.png"
                         text="Emiliano Santiago"
-                        label='Aruiqtecto'
+                        label='Arquitecto'
                         path='/services'
                         />
                                                                                                                                                                  
@@ -39,33 +39,33 @@ function Cards() {
                         <CardItem
                         src="images/Pro5.png"
                         text="Mario Roldan"
-                        label='Aruiqtecto'
+                        label='Arquitecto'
                         path='/services'
                         /> 
                         <CardItem
                         src="images/Pro6.jpg"
-                        text="Emiliano Santiago"
-                        label='Aruiqtecto'
+                        text="Josefina Laos"
+                        label='Arquitecta'
                         path='/services'
                         />
                         <CardItem
                         src="images/Pro7.jpg"
                         text="Victoria Bustamante"
-                        label='Aruiqtecto'
+                        label='Arquitecta'
                         path='/services'
                         />
                         <CardItem
                         src="images/Pro8.jpg"
-                        text="Emiliano Santiago"
-                        label='Aruiqtecto'
+                        text="Isabel Sanchez Rodrigues"
+                        label='Arquitecta'
                         path='/services'
                         />                        
                     </ul>   
                 </div>                
                     <CardItem
                     src="images/Pro9.jpg"
-                    text="Emiliano Santiago"
-                    label='Aruiqtecto'
+                    text="Catalina Duarte"
+                    label='Arquitecta'
                     path='/services'
                     />   
                                           

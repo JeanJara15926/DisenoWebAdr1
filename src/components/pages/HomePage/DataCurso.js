@@ -184,7 +184,7 @@ export const homeObjOne = {
     description :"Es socia de una de las constructoras mas prestigiosas de madrid seranco s.a. desde hace 9 años forma parte del personal academico en la universidad europea de madrid, dictando el curso de aplicacion y psicologia del color",
     buttonLabel: '',
     imgStart: 'start',
-    img: require('../../../images2/profile.jpg'),
+    img: require('../../../images2/Pro8.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -200,7 +200,7 @@ export const homeObjOne = {
     description :"En este curso aprenderás a diseñar y modelar una vivienda ortogonal aplicando la metodología BIM con Revit. Verás paso a paso cómo crear un proyecto de arquitectura 3D, desde los muros hasta las láminas de presentación para tu cliente.",
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/Curso3.jpg'),
+    img: require('../../../images2/Curso3-1.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -215,7 +215,7 @@ export const homeObjOne = {
     description :"",
     buttonLabel: '',
     imgStart: 'start',
-    img: require('../../../images2/Curso3.jpg'),
+    img: require('../../../images2/Curso3-2.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -230,7 +230,7 @@ export const homeObjOne = {
     description :"",
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/Curso3.jpg'),
+    img: require('../../../images2/Curso3-3.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -240,12 +240,12 @@ export const homeObjOne = {
     lightTopLine: false,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Emir Vértiz ',
+    topLine: 'Mario Roldan',
     headline: 'Arquitecto y especialista técnico en software Revit.',
     description :"Profesor en la Universidad Católica de Chile para el manejo de software de AutoCAD (carrera de Construcción Civil) y hoy en día ejerce como Profesor Relator de Revit, con certificados de Autodesk Professional Certified en Revit Architecture y Autodesk Certified Instructor con 15 años de experiencia.",
     buttonLabel: '',
     imgStart: 'start',
-    img: require('../../../images2/profile.jpg'),
+    img: require('../../../images2/Pro5.png'),
     alt: 'Vault',
     start: ''
   };
@@ -261,7 +261,7 @@ export const homeObjOne = {
     description :"En este curso aprenderás a sacarle todo el partido a tu teléfono móvil para crear contenido visual en fotografías y vídeos para tus redes sociales. Te enfocarás principalmente en color y composición para darle un estilo visual consistente a tu galería y en la edición de cada foto y vídeo para lograr una línea editorial, tanto en tu contenido en Instagram Stories como en tu feed de Instagram.",
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/f.jpg'),
+    img: require('../../../images2/Curso4-1.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -276,7 +276,7 @@ export const homeObjOne = {
     description :"",
     buttonLabel: '',
     imgStart: 'start',
-    img: require('../../../images2/f.jpg'),
+    img: require('../../../images2/Curso4-2.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -291,7 +291,7 @@ export const homeObjOne = {
     description :"",
     buttonLabel: '',
     imgStart: '',
-    img: require('../../../images2/f.jpg'),
+    img: require('../../../images2/Curso4-3.jpg'),
     alt: 'Vault',
     start: ''
   };
@@ -306,7 +306,7 @@ export const homeObjOne = {
     description :"trabajando con varias marcas, esto me ha permitido explorar y descubrir nuevas tendencias que ahora aplico también en publicidad. CUENTO  con 15 años de experiencia. En mi curso de fotografía profesional  te enseñaré paso a paso las técnicas que he empleado para lograr las imágenes que muestro en mi portafolio en mi página web www.JOSEFINALAOS.com ",
     buttonLabel: '',
     imgStart: 'start',
-    img: require('../../../images2/profile.jpg'),
+    img: require('../../../images2/Pro6.jpg'),
     alt: 'Vault',
     start: ''
   };
